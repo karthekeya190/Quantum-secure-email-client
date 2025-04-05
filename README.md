@@ -50,7 +50,7 @@ git clone https://github.com/karthekeya190/Quantum-secure-email-client.git
 cd quantum-enhanced-secure-email
 pip install fastapi uvicorn pydantic cryptography
 ```
-###Running the Server
+### Running the Server
 ```bash
 python main.py
 ```
