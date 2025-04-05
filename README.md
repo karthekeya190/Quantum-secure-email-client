@@ -49,8 +49,10 @@ This project provides an API and a minimal **HTML frontend** for secure email co
 git clone https://github.com/karthekeya190/Quantum-secure-email-client.git
 cd quantum-enhanced-secure-email
 pip install fastapi uvicorn pydantic cryptography
-Running the Server
-bash
+```
+###Running the Server
+```bash
 python main.py
+```
 Visit: http://localhost:8000
 HTML frontend available at / (root path)
